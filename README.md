@@ -16,3 +16,4 @@ A dodging game about a cat trying to escape an acid rain. Once it is hit with a 
 ![one-of-4-ending-img](./images/screenshot_normal_gameover_with_lives.png)
 ![end-img](./images/screenshot_end.png)
 
+*please note that it will not work on mobile*
